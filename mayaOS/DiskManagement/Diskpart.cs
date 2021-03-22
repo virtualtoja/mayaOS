@@ -29,6 +29,10 @@ namespace mayaOS.DiskManagement
                 {
                     Format();
                 }
+                else if(command == "exit")
+                {
+                    Close();
+                }
                 else
                 {
                     Console.WriteLine("Invalid command");

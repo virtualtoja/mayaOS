@@ -24,6 +24,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Folder Include="Applications\BuiltInApps\" />
       <Folder Include="PackageManager\" />
     </ItemGroup>
 
